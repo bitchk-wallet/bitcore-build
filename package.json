@@ -13,7 +13,8 @@
     "keywords": [
         "bitcore"
     ],
-    "contributors": [{
+    "contributors": [
+        {
             "name": "Esteban Ordano",
             "email": "esteban@bitpay.com"
         },
